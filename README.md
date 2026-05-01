@@ -34,3 +34,5 @@ make
 | S / Down Arrow | Move down |
 | D / Right Arrow | Move right |
 | Q | Quit |
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
